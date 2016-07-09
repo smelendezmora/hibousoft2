@@ -1,0 +1,6 @@
+para clonar
+git clone https://github.com/gcoronelc/REPO_JDBC_001.git
+
+para ver lo que hay y muestra los commits
+git log
+
